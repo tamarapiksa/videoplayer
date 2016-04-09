@@ -1,0 +1,22 @@
+
+/* VIDEO PLAYER */
+.player {
+  color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+/* COMMENTS */
+.comments {
+  color: black;
+  width: 200px;
+  height: 200px;
+}
+
+/* SIDEBAR */
+
+.sidebar {
+  color: green;
+  width: 200px;
+  height: 200px;
+}
