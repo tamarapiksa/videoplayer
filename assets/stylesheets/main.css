@@ -1,14 +1,40 @@
+/* NAVBAR */
+header {
+  border-bottom: gray solid 1px;
+  height: 41px;
+}
+
+input {
+  width: 600px;
+  height: 24px;
+  vertical-align: top;
+  margin-left: 47px;
+}
+
+#searchicon {
+  height: 27px;
+  border: gray solid 1px;
+  margin-left: -4px;
+  margin-bottom: 20px;
+
+}
+
+#navlist {
+  display: inline-block;
+  list-style: none;
+}
+
 
 /* VIDEO PLAYER */
 .player {
-  color: blue;
+  background-color: blue;
   width: 200px;
   height: 200px;
 }
 
 /* COMMENTS */
 .comments {
-  color: black;
+  background-color: black;
   width: 200px;
   height: 200px;
 }
@@ -16,7 +42,7 @@
 /* SIDEBAR */
 
 .sidebar {
-  color: green;
+  background-color: green;
   width: 200px;
   height: 200px;
 }
