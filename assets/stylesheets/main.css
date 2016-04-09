@@ -1,3 +1,4 @@
+/* MAIN STYLE */
 body { 
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-size: 1em; 
@@ -13,11 +14,10 @@ body {
   z-index: 1;
 }
 
-
-
 #content {
   top: 50px;
 }
+
 /* NAVBAR */
 header {
   border-bottom: 1px solid rgb(226,226,226);  
@@ -80,7 +80,6 @@ li {
   border: gainsboro solid 1px;
 }
 
-
 /* VIDEO PLAYER */
 .player {
   position: relative;
@@ -104,7 +103,6 @@ iframe {
 }
 
 /* SIDEBAR */
-
 .sidebar {
   float: right;
   width: 300px;
