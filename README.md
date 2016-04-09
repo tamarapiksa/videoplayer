@@ -1,3 +1,3 @@
 # videoplayer
 
-Creating a video player using HTML/CSS. 
+Creating YouTube video player replica. Focus on HTML/CSS elements and working with image and video tags. 
